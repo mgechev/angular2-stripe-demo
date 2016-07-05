@@ -1,9 +1,6 @@
 import { Component, NgZone } from '@angular/core';
 import { REACTIVE_FORM_DIRECTIVES } from '@angular/forms';
 
-/**
- * This class represents the lazy loaded HomeComponent.
- */
 @Component({
   moduleId: module.id,
   selector: 'sd-custom-form',
@@ -30,6 +27,8 @@ export class CustomFormComponent {
       exp_year: this.expiryYear,
       cvc: this.cvc
     }, (status: number, response: any) => {
+
+      // Wrapping inside the Angular zone
       this._zone.run(() => {
         if (status === 200) {
           this.message = `Success! Card token ${response.card.id}.`;
