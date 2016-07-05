@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/052725d74978d6b8d7c4ff537b5a3b21ee755a49/run-sequence/run-sequence.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/run-sequence/run-sequence.d.ts#052725d74978d6b8d7c4ff537b5a3b21ee755a49",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/052725d74978d6b8d7c4ff537b5a3b21ee755a49/run-sequence/run-sequence.d.ts"
+  }
+}

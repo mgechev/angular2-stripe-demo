@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7cda84786520fd0673c934fde1aa722083e05f7b/micromatch/micromatch.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/micromatch/micromatch.d.ts#7cda84786520fd0673c934fde1aa722083e05f7b",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7cda84786520fd0673c934fde1aa722083e05f7b/micromatch/micromatch.d.ts"
+  }
+}

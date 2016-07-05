@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e081148d88b857d66509e3b46edbd08b3f75f96a/gulp-load-plugins/gulp-load-plugins.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/gulp-load-plugins/gulp-load-plugins.d.ts#e081148d88b857d66509e3b46edbd08b3f75f96a",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e081148d88b857d66509e3b46edbd08b3f75f96a/gulp-load-plugins/gulp-load-plugins.d.ts"
+  }
+}

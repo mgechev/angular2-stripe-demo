@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/gdi2290/typings-ng2/32998ff5584c0eab0cd9dc7704abb1c5c450701c/ng2.d.ts",
+    "raw": "github:gdi2290/typings-ng2/ng2.d.ts#32998ff5584c0eab0cd9dc7704abb1c5c450701c",
+    "typings": "https://raw.githubusercontent.com/gdi2290/typings-ng2/32998ff5584c0eab0cd9dc7704abb1c5c450701c/ng2.d.ts"
+  }
+}

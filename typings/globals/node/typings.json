@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/138ad74b9e8e6c08af7633964962835add4c91e2/node/node.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#138ad74b9e8e6c08af7633964962835add4c91e2",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/138ad74b9e8e6c08af7633964962835add4c91e2/node/node.d.ts"
+  }
+}

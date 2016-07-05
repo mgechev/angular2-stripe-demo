@@ -1,0 +1,11 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/gdi2290/typed-xhr2/69f2b8d40d0cd407c1b2a2f2f41fecc6852cabbb/typings.json",
+    "raw": "github:gdi2290/typed-xhr2#69f2b8d40d0cd407c1b2a2f2f41fecc6852cabbb",
+    "main": "lib/xhr2.d.ts",
+    "global": false,
+    "name": "xhr2",
+    "type": "typings"
+  }
+}

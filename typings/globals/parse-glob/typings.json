@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/1ae2ddf27c6e9b98ad7e7fa496788f1aadf37933/parse-glob/parse-glob.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/parse-glob/parse-glob.d.ts#1ae2ddf27c6e9b98ad7e7fa496788f1aadf37933",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/1ae2ddf27c6e9b98ad7e7fa496788f1aadf37933/parse-glob/parse-glob.d.ts"
+  }
+}

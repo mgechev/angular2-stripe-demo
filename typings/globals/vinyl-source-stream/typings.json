@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/ffceea9dd124d277c4597c7bd12930666ec074c5/vinyl-source-stream/vinyl-source-stream.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/vinyl-source-stream/vinyl-source-stream.d.ts#ffceea9dd124d277c4597c7bd12930666ec074c5",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/ffceea9dd124d277c4597c7bd12930666ec074c5/vinyl-source-stream/vinyl-source-stream.d.ts"
+  }
+}
