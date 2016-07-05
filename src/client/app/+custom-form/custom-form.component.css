@@ -11,3 +11,9 @@ ul {
   list-style-type: none;
   padding: 0 0 0 8px;
 }
+
+.payment-message {
+  display: block;
+  height: 20px;
+}
+
