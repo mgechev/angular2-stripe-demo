@@ -6,7 +6,7 @@ import { REACTIVE_FORM_DIRECTIVES } from '@angular/forms';
  */
 @Component({
   moduleId: module.id,
-  selector: 'sd-home',
+  selector: 'sd-custom-form',
   templateUrl: 'custom-form.component.html',
   styleUrls: ['custom-form.component.css'],
   directives: [REACTIVE_FORM_DIRECTIVES]
